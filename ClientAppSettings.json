@@ -1,0 +1,18 @@
+{
+    "DFFlagDebugRenderForceTechnologyVoxel": true,
+    "DFFlagDebugPauseVoxelizer": true,
+    "DFFlagDisableDPIScale": false,
+    "FFlagDisablePostFx": true,
+    "FFlagDebugSkyGray": true,
+    "FFlagEnableVisBugChecks": true,
+    "DFFlagUseVisBugChecks": true,
+    "FIntFRMMaxGrassDistance": 0,
+    "FIntFRMMinGrassDistance": 0,
+    "FIntRenderGrassDetailStrands": 0,
+    "FIntRenderShadowIntensity": 0,
+    "FIntDebugForceMSAASamples": 0,
+    "DFIntCSGLevelOfDetailSwitchingDistance": 0,
+    "DFIntCSGLevelOfDetailSwitchingDistanceL12": 0,
+    "DFIntCSGLevelOfDetailSwitchingDistanceL23": 0,
+    "DFIntCSGLevelOfDetailSwitchingDistanceL34": 0
+}
